@@ -12,4 +12,9 @@ Am Projekt arbeiten:
 
 ## **Projektidee**
 
-Wir untersuchen, in welchen Ländern die Suizidraten von 1950 bis 2024 welche am stärksten abgenommen beziehungsweise zugenommen haben. Zudem recherchieren wir möglich Gründe für diese Entwicklung.
+Wir untersuchen, die Entwicklung der weltweiten Suizidratem im Zeitraum von 1950 bis 2024. Dabei analysieren wir, in welchen Ländern die Suizidraten am stärksten ab- beziehungsweise zugenommen haben. Zudem recherchieren wir mögliche Einflussfaktoren, die diese Entwicklung erklären könnten.
+
+## Datenquelle
+
+Die Datengrundlage für unsere Analyse stammt von  [Our World in Data - Suicides] (https://ourworldindata.org/suicide)
+
